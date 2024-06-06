@@ -10,13 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 // hello from Github Testing
 
-    // Experimental Branch  c
-
-    // Experimental Branch  c
-    // Experimental Branch  c
-
-
-
     private lateinit var categoriesRecyclerView: RecyclerView
     private lateinit var itemsRecyclerView: RecyclerView
 

@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
 
 // hello from Github Testing
 
+    // AJSTAR
+    // AJSTAR
+    // AJSTAR
+
     private lateinit var categoriesRecyclerView: RecyclerView
     private lateinit var itemsRecyclerView: RecyclerView
 

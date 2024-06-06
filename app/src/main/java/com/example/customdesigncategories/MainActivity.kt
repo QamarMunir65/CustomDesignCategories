@@ -13,9 +13,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var categoriesRecyclerView: RecyclerView
     private lateinit var itemsRecyclerView: RecyclerView
 
-    // AJSTAR
-    // AJSTAR
-    // AJSTAR
     private val categories = listOf(
         Category("Bags", List(15) { Item("Bag ${it + 1}", R.drawable.bag) }, R.drawable.rocco),
         Category("T-Shirts", List(15) { Item("T-Shirt ${it + 1}", R.drawable.tshirt) }, R.drawable.rocco),

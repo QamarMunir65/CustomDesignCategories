@@ -8,6 +8,8 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
+// hello from Github Testing
+
     private lateinit var categoriesRecyclerView: RecyclerView
     private lateinit var itemsRecyclerView: RecyclerView
 

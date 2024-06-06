@@ -12,6 +12,11 @@ class MainActivity : AppCompatActivity() {
 
     // Experimental Branch  c
 
+    // Experimental Branch  c
+    // Experimental Branch  c
+
+
+
     private lateinit var categoriesRecyclerView: RecyclerView
     private lateinit var itemsRecyclerView: RecyclerView
 
